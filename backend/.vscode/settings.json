@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 10,
+    "screencastMode.fontSize": 20,
+    "scm.inputFontSize": 8,
+    "terminal.integrated.customGlyphs": false,
+    "terminal.integrated.fontSize": 10,
+    "files.autoSave": "afterDelay",
+    "editor.codeLensFontSize": 0
+}
